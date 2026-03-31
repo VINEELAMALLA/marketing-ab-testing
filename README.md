@@ -73,7 +73,7 @@ The dashboard focuses on key business metrics:
 
 ### 📈 ROI Comparison
 
-![ROI](visualizations/ROI_comparison.png)
+![ROI](visualizations/ROI_comparision.png)
 
 ### 🌍 Revenue by Campaign and Region
 
